@@ -40,10 +40,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Discover Swarovski x skims 
-  <img src="readme-images/swarovski-x-kim1" width="375px" alt="Eerste deel van de pagina">
-  <img src="readme-images/swarovski-x-kim2" width="375px" alt="Tweede deel van de pagina">
-  <img src="readme-images/swarovski-x-kim3" width="375px" alt="Derde deel van de pagina">
-  <img src="readme-images/swarovski-x-kim4" width="375px" alt="Vierde deel van de pagina">
+  <img src="readme-images/swarovski-x-skims1.jpg" width="375px" alt="Eerste deel van de pagina">
+  <img src="readme-images/swarovski-x-skims2.jpg" width="375px" alt="Tweede deel van de pagina">
+  <img src="readme-images/swarovski-x-skims3.jpg" width="375px" alt="Derde deel van de pagina">
+  <img src="readme-images/swarovski-x-skims4.jpg" width="375px" alt="Vierde deel van de pagina">
   <img src="readme-images/swarovski-x-kim5" width="375px" alt="Vijfde deel van de pagina">
   <img src="readme-images/swarovski-x-kim6" width="375px" alt="Zesde deel van de pagina">
   <img src="readme-images/swarovski-x-kim7" width="375px" alt="Zevende deel van de pagina">
