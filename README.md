@@ -43,19 +43,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   
   <img src="readme-images/swarovski-x-skims1.png" width="175px" height ="350px" alt="Eerste deel van de pagina">
-  <img src="readme-images/swarovski-x-skims2.jpg" width="175px" height ="350px" alt="Tweede deel van de pagina">
-  <img src="readme-images/swarovski-x-skims3.jpg" width="175px" height ="350px" alt="Derde deel van de pagina">
-  <img src="readme-images/swarovski-x-skims4.jpg" width="175px" height ="350px" alt="Vierde deel van de pagina">
-  <img src="readme-images/swarovski-x-skims5.jpg" width="175px" height ="350px" alt="Vijfde deel van de pagina">
-  <img src="readme-images/swarovski-x-skims6.jpg" width="175px" height ="350px" alt="Zesde deel van de pagina">
-  <img src="readme-images/swarovski-x-skims7.jpg" width="175px" height ="350px" alt="Zevende deel van de pagina">
-  <img src="readme-images/swarovski-x-skims8.jpg" width="175px" height ="350px" alt="Achste deel van de pagina">
-  <img src="readme-images/swarovski-x-skims9.jpg" width="175px" height ="350px" alt="Negende deel van de pagina">
-  <img src="readme-images/swarovski-x-skims10.jpg" width="175px" height ="350px" alt="Tiende deel van de pagina">
+  <img src="readme-images/swarovski-x-skims2.png" width="175px" height ="350px" alt="Tweede deel van de pagina">
+  <img src="readme-images/swarovski-x-skims3.png" width="175px" height ="350px" alt="Derde deel van de pagina">
+  <img src="readme-images/swarovski-x-skims4.png" width="175px" height ="350px" alt="Vierde deel van de pagina">
+  <img src="readme-images/swarovski-x-skims5.png" width="175px" height ="350px" alt="Vijfde deel van de pagina">
+  <img src="readme-images/swarovski-x-skims6.png" width="175px" height ="350px" alt="Zesde deel van de pagina">
+  <img src="readme-images/swarovski-x-skims7.png" width="175px" height ="350px" alt="Zevende deel van de pagina">
+  <img src="readme-images/swarovski-x-skims8.png" width="175px" height ="350px" alt="Achste deel van de pagina">
+  <img src="readme-images/swarovski-x-skims9.png" width="175px" height ="350px" alt="Negende deel van de pagina">
+  <img src="readme-images/swarovski-x-skims10.png" width="175px" height ="350px" alt="Tiende deel van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Decoratie (alles bekijken)
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
