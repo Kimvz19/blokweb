@@ -15,13 +15,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
-  ### Auteur: Kim van Zuieln
-    Kim van Zuieln
+  ### Auteur: 
+  Kim van Zuieln
 
   #### Je startniveau:
-  blauw 
+  Rood
+  
   #### Je focus:
-  surface plane
+  Surface plane
  
 </details>
 
@@ -35,14 +36,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.swarovski.com/en-NL/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Discover Swarovski x skims 
+  <img src="readme-images/swarovski-x-kim1" width="375px" alt="Eerste deel van de pagina">
+  <img src="readme-images/swarovski-x-kim2" width="375px" alt="Tweede deel van de pagina">
+  <img src="readme-images/swarovski-x-kim3" width="375px" alt="Derde deel van de pagina">
+  <img src="readme-images/swarovski-x-kim4" width="375px" alt="Vierde deel van de pagina">
+  <img src="readme-images/swarovski-x-kim5" width="375px" alt="Vijfde deel van de pagina">
+  <img src="readme-images/swarovski-x-kim6" width="375px" alt="Zesde deel van de pagina">
+  <img src="readme-images/swarovski-x-kim7" width="375px" alt="Zevende deel van de pagina">
+  <img src="readme-images/swarovski-x-kim8" width="375px" alt="Achste deel van de pagina">
+  <img src="readme-images/swarovski-x-kim9" width="375px" alt="Negende deel van de pagina">
+  <img src="readme-images/swarovski-x-kim10" width="375px" alt="Tiende deel van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Decoratie (alles bekijken)
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
