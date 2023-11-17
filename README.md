@@ -55,6 +55,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Decoratie (alles bekijken)
+  
+  
   <img src="readme-images/swarovski-decorations1.png" width="175px" height ="350px" alt="omschrijving van de pagina">
   <img src="readme-images/swarovski-decorations2.png" width="175px" height ="350px" alt="omschrijving van de pagina">
   <img src="readme-images/swarovski-decorations3.png" width="175px" height ="350px" alt="omschrijving van de pagina">
