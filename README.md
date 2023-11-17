@@ -55,7 +55,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Decoratie (alles bekijken)
-  <img src="readme-images/" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations1.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations2.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations3.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations4.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations5.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations6.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations7.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations8.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations9.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations10.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations11.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations12.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations13.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
