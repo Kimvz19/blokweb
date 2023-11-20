@@ -57,19 +57,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Decoratie (alles bekijken)
   
   
-  <img src="readme-images/swarovski-decorations1.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations2.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations3.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations4.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations5.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations6.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations7.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations8.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations9.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations10.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations11.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations12.png" width="175px" height ="350px" alt="omschrijving van de pagina">
-  <img src="readme-images/swarovski-decorations13.png" width="175px" height ="350px" alt="omschrijving van de pagina">
+  <img src="readme-images/swarovski-decorations1.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 1">
+  <img src="readme-images/swarovski-decorations2.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 2">
+  <img src="readme-images/swarovski-decorations3.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 3">
+  <img src="readme-images/swarovski-decorations4.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 4">
+  <img src="readme-images/swarovski-decorations5.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 5">
+  <img src="readme-images/swarovski-decorations6.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 6">
+  <img src="readme-images/swarovski-decorations7.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 7">
+  <img src="readme-images/swarovski-decorations8.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 8">
+  <img src="readme-images/swarovski-decorations9.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 9">
+  <img src="readme-images/swarovski-decorations10.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 10">
+  <img src="readme-images/swarovski-decorations11.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 11">
+  <img src="readme-images/swarovski-decorations12.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 12">
+  <img src="readme-images/swarovski-decorations13.png" width="175px" height ="350px" alt="omschrijving decoratie pagina 13">
  
 </details>
 
@@ -81,14 +81,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  <img src="readme-images/wcga-checklist2.png" width="375px" alt="WCAG checklist">
-  <img src="readme-images/Wcag-checklist1.png" width="375px" alt="WCAG checklist">
+  <img src="readme-images/wcga-checklist2.png" width="375px" alt="WCAG checklist 1">
+  <img src="readme-images/Wcag-checklist1.png" width="375px" alt="WCAG checklist 2">
     
   Lijst met je bevindingen die in de test naar voren kwamen:
   - Veel foto's worden niet benoemd als foto's maar als links, zie voorbeeld; 
   - Soms worden er andere kopjes door elkaar gehaald met de H2 en H3
   - Bij foto's worden er geen beschrijvingen gezet. De foto's worden ook niet gezien als foto's maar als links.
   - Sommige stukken tekst worden niet beschreven als paragrafen,p, maar als #text
+  
+  <img src="readme-images/opmerkingen-in-code.png" width="375px" alt="toegankelijkheidstekst uitkomsten">
+
+  
 
 </details>
 
