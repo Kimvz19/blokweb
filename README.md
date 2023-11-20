@@ -81,7 +81,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
+    <img src="readme-images/wcga-checklist2.png" width="375px" alt="WCAG checklist">
+    <img src="readme-images/Wcag-checklist1.png" width="375px" alt="WCAG checklist">
+    
   Lijst met je bevindingen die in de test naar voren kwamen:
+  - 
   
 
 </details>
