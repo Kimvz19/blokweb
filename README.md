@@ -81,12 +81,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-    <img src="readme-images/wcga-checklist2.png" width="375px" alt="WCAG checklist">
-    <img src="readme-images/Wcag-checklist1.png" width="375px" alt="WCAG checklist">
+  <img src="readme-images/wcga-checklist2.png" width="375px" alt="WCAG checklist">
+  <img src="readme-images/Wcag-checklist1.png" width="375px" alt="WCAG checklist">
     
   Lijst met je bevindingen die in de test naar voren kwamen:
-  - 
-  
+  - Veel foto's worden niet benoemd als foto's maar als links, zie voorbeeld; 
+  - Soms worden er andere kopjes door elkaar gehaald met de H2 en H3
+  - Bij foto's worden er geen beschrijvingen gezet. De foto's worden ook niet gezien als foto's maar als links.
+  - Sommige stukken tekst worden niet beschreven als paragrafen,p, maar als #text
 
 </details>
 
@@ -111,12 +113,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
         
         
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
-</details>
+
+</details> 
 
 
 
