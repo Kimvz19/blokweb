@@ -96,7 +96,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### de hele pagina: 
   <img src="readme-images/breakdown-skims1.png" width="375px" alt="breakdown van de hele pagina">
   <img src="readme-images/breakdown-skims2.jpg" width="375px" alt="breakdown van de hele pagina">
-  
+  <img src="readme-images/breakdown-skims3.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims4.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims5.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims6.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims7.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims8.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims9.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims10.jpg" width="375px" alt="breakdown van de hele pagina">
+        
+        
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
