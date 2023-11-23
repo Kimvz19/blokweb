@@ -103,7 +103,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
+  ### de hele pagina - Skims collab : 
+  <img src="readme-images/breakdown-skims1.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims2.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims3.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims4.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims5.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims6.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims7.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims8.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims9.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-skims10.png" width="375px" alt="breakdown van de hele pagina">
+        
+   ### de hele pagina - Skims collab : 
   <img src="readme-images/breakdown-skims1.png" width="375px" alt="breakdown van de hele pagina">
   <img src="readme-images/breakdown-skims2.png" width="375px" alt="breakdown van de hele pagina">
   <img src="readme-images/breakdown-skims3.png" width="375px" alt="breakdown van de hele pagina">
@@ -117,11 +129,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
         
         
   ### dynamisch deel (bijv menu): 
+  <img src="readme-images/breakdown-skims1.png" width="375px" alt="breakdown van de hele pagina">
   
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-
-
 </details> 
 
 
