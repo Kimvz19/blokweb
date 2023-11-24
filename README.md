@@ -144,7 +144,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+   
+  Ik heb gemerkt bij het maken van de oefeningen in les dat ik grid nog wel lastig vindt. Ook vind ik het lastig om te beslissen wanneer je een div, een class of een span nodig hebt, aangezien de code van de website van Swarovski alleen maar daar uit bestaat. Dus voor nu heb ik alle content erin gezet en een paar div met span (alleen voor bepaalde artikelen). 
+  Veel foto's waren links, dus deze heb ik ook in de code gezet. Ik liep wel  tegen 1 ding aan > Als je een foto download van de website komt het als een .avif bestand eruit en die wordt niet herkend dus ik heb alle foto's als png moeten omzetten. Ook had ik eerst alle foto's in 1 de map images, maar nu heb ik die wel opgedeeld in verschillende onderwerpen: 
+  - kim-kardashain
+  - ornaments
+  - sieraden
+  - kleding 
+  - overige foto's
+  
+    <img src="readme-images/code1.png" width="375px" alt="code in html">
+    <img src="readme-images/code2.png" width="375px" alt="code in html">
+    <img src="readme-images/code3.png" width="375px" alt="indeling van de foto's">
+    <img src="readme-images/code-swarovski.png" width="375px" alt="code van swarovski">
+  
+  
+  
 
   ### Agenda voor meeting
   samen met je groepje opstellen
