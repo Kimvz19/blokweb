@@ -158,7 +158,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     <img src="readme-images/code3.png" width="375px" alt="indeling van de foto's">
     <img src="readme-images/code-swarovski.png" width="375px" alt="code van swarovski">
   
+  ### 24 november - Eerste feedback 
+  1) Breakdown : Niet alle elementen zijn uitgebreid beschreven. Dit houdt in ;
+  - in de header staan icoontjes van een winkelmandje > deze heb ik alleen aangegeven als een icoon, maar het is een button  met een image. 
+  Ook had ik in mijn vorige breakdown geen articles of sections genoemd, dus dit moet ook nog gedaan worden. 
   
+  2) De html code : Zoals hierboven vermeld, had ik nog geen gebruik gemaakt van articles of sections dus deze moet ik erin zetten. Ook het gebruik van 
+  de headings moeten aangepast worden > Let op H2 & H3.
+  Bij de beschrijvingen van kleding > 30% korting, 3 kleuren > had ik gebruik gemaakt van spans, maar ik kan hiervoor ook p gebruiken. 
   
 
   ### Agenda voor meeting
@@ -173,12 +180,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  
 </details>
 
 
