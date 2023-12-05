@@ -169,7 +169,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
 </details>
 
+<details>
+## Verwerking Feedback 
+    <img src="readme-images/code1.png" width="375px" alt="verbeterde versie van breakdown header">
+    
+    De indeling van breakdown wordt herhaald voor beide pagina's. Dus het gebruik van sections en articles worden in deze foto het beste weergegeven.
+    Ook de indeling van de navigatie heb ik opnieuw gemaakt in een breakdown.
+    <img src="readme-images/code1.png" width="375px" alt="verbeterde versie van breakdown deel 1">
 
+</details>
 
 
 
@@ -179,27 +187,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Deze week was voor mij geen goede week. Het coderen met Css ging niet bepaald goed.
+  Na de feedback van week 1 was ik er van overtuigd dat alles wel ging lukken alleen nadat ik de Html code allemaal had opgeschreven, liep ik tegen een muur aan. 
+  Niet omdat de code fout was, maar omdat ik het allemaal zo was. Waar moest ik beginnen?  Ik ben toen begonnen met de inhoud van de website, maar ik kwam er al snel achter dat dit niet ging. 
+  Ook moest al mijn kennis weer opgefrist worden wat mij veel tijd heeft gekost. 
+  
+  
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  ### Belangrijke ontdekkingen deze week
+  Wat ik uiteindelijk deze week heb gedaan is:
+  - navigatiebar gemaakt 
+  - foto's allemaal opgeslagen in png bestand + juiste formaat (bijna allemaal)
+  - feedback verwerkt van vorige week
+  - juiste vervanging gevonden voor de font-family
+  
+  <img src="readme-images/vooruitgangweek2.png" width="616px" alt="vooruitgang week 2">
+    <img src="readme-images/vooruitgangweek2.1.png" width="616px" alt="vooruitgang week 2">
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
+  Ik ben niet naar de feedback gegaan, omdat ik vond dat ik veel achterliep waardoor er nog niet genoeg was om feedback op te krijgen. 
 </details>
 
 
