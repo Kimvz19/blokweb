@@ -230,6 +230,7 @@ main img {
     margin: 0px;
     font-family: 'Martel Sans', sans-serif;
     font-size: 11px;
+    text-align: center;
 }
 
 .Millenia-sieraden h3 {
@@ -245,23 +246,23 @@ main img {
     align-items: center;
     padding: 20px 14px;
     margin: 0 auto;
-    width: 300px;
+    width: 320px;
 }
 
 /*de breedte van de tekst nog aanpassen */
 
 .stralende-gevormde-stijl h3 {
     font-family: 'Hedvig Letters Serif', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 }
 
 .stralende-gevormde-stijl p {
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
     margin: 0px;
     word-spacing: -0.25px;
-    font-family: "EuclidIgnited",sans-serif;
+    font-family: 'Martel Sans', sans-serif;
     line-height: 20px;
 }
 
@@ -270,14 +271,23 @@ main img {
     height: 640px;
     background-image: url("/images/kim-kardashain/tryy1.png");
     background-repeat: no-repeat;
+    position: relative;
+
+
 }
 
-.crystal-studded-jelly h2{
+.crystal-studded-jelly article {
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+}
+
+.crystal-studded-jelly article h2 {
     font-family: 'Hedvig Letters Serif', sans-serif;
-    font-size: 36px;
+    font-size: 39px;
 }
 
-.crystal-studded-jelly a{
+.crystal-studded-jelly article a {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -289,14 +299,87 @@ main img {
     width: 200px;
     height: 35px;
     font-family: 'Martel Sans', sans-serif;
+    margin-left: 85px;
 }
 
 /*banner styling*/
-.banner img{
-height: 45px;
-width: 100%;
+.banner img {
+    height: 45px;
+    width: 100%;
 }
 
+.banner{
+    height: 65px;
+}
+
+/* section mesmerizing crystals */
+.mesmerizing-crystals {
+    display: grid;
+    align-items: center;
+    background-image: var(--afbeelding-achtergrond);
+    background-repeat: no-repeat;
+    padding: 15px;
+    max-height: 960px;
+    width: 375px;
+}
+
+.mesmerizing-crystals h2 {
+    font-family: 'Hedvig Letters Serif', sans-serif;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.mesmerizing-crystals p {
+    font-family: 'Martel Sans', sans-serif;
+    margin: 0px;
+    font-size: 11px;
+    color: white;
+    text-align: center;
+    width: 350px;
+    padding-bottom: 50px;
+}
+
+.mesmerizing-crystals img {
+    width: 319px;
+    height: 450px;
+}
+
+.luminous-stretch-layers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    height: 180px;
+    width: 161.5px;
+}
+
+.luminous-stretch-layers img {
+    height: 127px;
+    width: 127px;
+}
+
+.luminous-stretch-layers span {
+    font-family: 'Martel Sans', sans-serif;
+    font-size: 11px;
+    color: #5a5a5a;
+    background-color: #f0eee4;
+    border-radius: 3px;
+    padding: 0.5px;
+}
+
+.luminous-stretch-layers p {
+    margin: 0px;
+    font-family: 'Martel Sans', sans-serif;
+    font-size: 11px;
+    text-align: center;
+}
+
+.luminous-stretch-layers h3 {
+    font-family: 'Martel Sans', sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
 
 
 /* page swarovski decorations all pagina */
